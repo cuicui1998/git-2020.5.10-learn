@@ -1,1 +1,9 @@
+<<<<<<< HEAD
  Othder  write 123121
+=======
+<<<<<<< HEAD
+I did something aaa
+=======
+ Othder  write
+>>>>>>> 845681129530e06c874d2a3ae738a31b49957b05
+>>>>>>> d511efd6586111d492b974d9ba27242ba2732a24
