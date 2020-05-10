@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I did something aaa
+=======
+ Othder  write
+>>>>>>> 845681129530e06c874d2a3ae738a31b49957b05
